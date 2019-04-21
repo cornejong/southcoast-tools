@@ -1,0 +1,23 @@
+{
+  "name": "southcoast/tools",
+  "description": "A collection of tools for PHP development",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Corné de Jong | SouthCoast",
+      "email": "corne@southcoast.tech",
+      "homepage": "http://southcoast.tech",
+      "role": "Developer & Engineer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "southcoast/helpers": "dev-master",
+    "southcoast/utility": "dev-master",
+    "southcoast/cache": "dev-master",
+    "southcoast/novelty": "dev-master"
+  },
+  "minimum-stability": "stable"
+}
